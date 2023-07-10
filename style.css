@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    margin:auto;
+background-image: url('portfolio_background.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;}
+
+.nav-item{
+    text-decoration: none;
+color:azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+}
+.image{
+    margin:10%;
+    padding:10px;
+    border-radius:10px;
+    width: fit-content;
+    background-color:whitesmoke ;
+    
+}
+
