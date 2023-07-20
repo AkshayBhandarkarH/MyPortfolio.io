@@ -10,6 +10,7 @@ background-size: 100% 100%;}
     text-decoration: none;
 color:azure;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;
 }
 li{
     display: inline;
